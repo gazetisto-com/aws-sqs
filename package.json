@@ -1,6 +1,6 @@
 {
   "name": "@gazetisto/aws-sqs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AWS SQS simple gateway",
   "main": "index.js",
   "scripts": {
